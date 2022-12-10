@@ -1,6 +1,6 @@
 html {
   /*background: url('./assets/whoville.png') no-repeat center center fixed;*/
-  background: url("https://github.com/randiontheweb/whack-a-mole/blob/5ca560522d910983b4bb50fa80240090f0d6a95e/assets/whoville.png") no-repeat center center fixed;
+  background: url("/assets/whoville.png") no-repeat center center fixed;
   box-sizing: border-box;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -55,7 +55,7 @@ h2 {
 .hole:after {
   display: block;
   /*background: url("./assets/chimney.png") bottom center no-repeat;*/
-  background: url("https://github.com/randiontheweb/whack-a-mole/blob/e212e3a2b05e7c6df95a4f3cccddb03f17acdfad/assets/chimney.png") bottom center no-repeat;
+  background: url("/assets/chimney.png") bottom center no-repeat;
   background-size: contain;
   content: "";
   width: 100%;
