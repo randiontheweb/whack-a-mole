@@ -1,6 +1,6 @@
 html {
   /*background: url('./assets/whoville.png') no-repeat center center fixed;*/
-  background: url("assets/whoville.png") no-repeat center center fixed;
+  background: url("https://github.com/randiontheweb/whack-a-mole/blob/main/assets/whoville.png") no-repeat center center fixed;
   box-sizing: border-box;
   -webkit-background-size: cover;
   -moz-background-size: cover;
