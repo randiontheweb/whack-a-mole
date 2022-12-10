@@ -55,7 +55,7 @@ h2 {
 .hole:after {
   display: block;
   /*background: url("./assets/chimney.png") bottom center no-repeat;*/
-  background: url("/assets/chimney.png") bottom center no-repeat;
+  background: url("https://github.com/randiontheweb/whack-a-mole/blob/e212e3a2b05e7c6df95a4f3cccddb03f17acdfad/assets/chimney.png") bottom center no-repeat;
   background-size: contain;
   content: "";
   width: 100%;
