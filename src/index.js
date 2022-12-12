@@ -275,8 +275,8 @@ function stopGame() {
 }
 
 // audio
-const audioHit = new Audio("../assets/iamthegrinch.m4a");
-const song = new Audio("../assets/iamthegrinch.m4a");
+const audioHit = new Audio("../../assets/iamthegrinch.m4a");
+const song = new Audio("../../assets/iamthegrinch.m4a");
 
 function playAudio(audioObject) {
   audioObject.play();
