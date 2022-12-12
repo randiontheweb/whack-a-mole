@@ -54,8 +54,8 @@ h2 {
 
 .hole:after {
   display: block;
-  /*background: url("../assets/chimney.png") bottom center no-repeat;*/
-  background: url("/assets/chimney.png") bottom center no-repeat;
+  /*background: url("./assets/chimney.png") bottom center no-repeat;*/
+  background: url("../assets/chimney.png") bottom center no-repeat;
   background-size: contain;
   content: "";
   width: 100%;
@@ -67,8 +67,8 @@ h2 {
 }
 
 .mole {
-  /*background:url('../assets/mole.png') bottom center no-repeat;*/
-  background: url("/assets/grinch.png") bottom center no-repeat;
+  /*background:url('./assets/mole.png') bottom center no-repeat;*/
+  background: url("../assets/grinch.png") bottom center no-repeat;
   background-size: 40%;
   position: absolute;
   top: 100%;
