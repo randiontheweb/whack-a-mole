@@ -67,7 +67,7 @@ h2 {
 }
 
 .mole {
-  /*background:url('./assets/mole.png') bottom center no-repeat;*/
+  /*background:url('./assets/grinch.png') bottom center no-repeat;*/
   background: url("../assets/grinch.png") bottom center no-repeat;
   background-size: 40%;
   position: absolute;
