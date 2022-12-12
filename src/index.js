@@ -275,8 +275,8 @@ function stopGame() {
 }
 
 // audio
-const audioHit = new Audio("/assets/I_Am_the_Grinch.m4a");
-const song = new Audio("/assets/I_Am_the_Grinch.m4a");
+const audioHit = new Audio("../assets/I_Am_the_Grinch.m4a");
+const song = new Audio("../assets/I_Am_the_Grinch.m4a");
 
 function playAudio(audioObject) {
   audioObject.play();
