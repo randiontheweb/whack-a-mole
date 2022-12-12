@@ -275,25 +275,25 @@ function stopGame() {
 }
 
 // audio
-const audioHit = new Audio("../../assets/iamthegrinch.m4a");
-const song = new Audio("../../assets/iamthegrinch.m4a");
+// const audioHit = new Audio("../assets/iamthegrinch.m4a");
+// const song = new Audio("../assets/iamthegrinch.m4a");
 
-function playAudio(audioObject) {
-  audioObject.play();
-}
+// function playAudio(audioObject) {
+//   audioObject.play();
+// }
 
-function loopAudio(audioObject) {
-  audioObject.loop = true;
-  playAudio(audioObject);
-}
+// function loopAudio(audioObject) {
+//   audioObject.loop = true;
+//   playAudio(audioObject);
+// }
 
-function stopAudio(audioObject) {
-  audioObject.pause();
-}
+// function stopAudio(audioObject) {
+//   audioObject.pause();
+// }
 
-function play() {
-  playAudio(song);
-}
+// function play() {
+//   playAudio(song);
+// }
 
 /**
  *
